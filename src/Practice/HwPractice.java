@@ -27,7 +27,6 @@ public class HwPractice {
 		driver.navigate().back();
 		driver.findElement(By.xpath("//a[contains(text(),'Books')]")).click();
 		
-		List<WebElement> listof=(List<WebElement>) driver.findElement(By.xpath("//*[@class='top-menu']"));
 		
 		System.out.println(listof);
 //		driver.quit();
