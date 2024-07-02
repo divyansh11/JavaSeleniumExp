@@ -25,10 +25,16 @@ public class HwPractice {
 //		driver.findElement(By.xpath("//*[@class='ico-register']")).click();
 		driver.findElement(By.xpath("//a[contains(text(),'Register')]")).click();
 		driver.navigate().back();
-		driver.findElement(By.xpath("//a[contains(text(),'Books')]")).click();
+//		driver.findElement(By.xpath("//a[contains(text(),'Books')]")).click();
+//		
+		// For anchor tags we have linktext, partial link text
+		driver.findElement(By.linkText("Computers")).click();
 		
+		// Using css selectors to find element
+		driver.findElement(By.cssSelector(".ico-register")).click();
+	
 		
-		System.out.println(listof);
+	
 //		driver.quit();
 	}
 
