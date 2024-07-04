@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-07-04T11:35:57 IST" name="Default suite" finished-at="2024-07-04T11:35:57 IST" duration-ms="59">
+    <groups>
+    </groups>
+    <test started-at="2024-07-04T11:35:57 IST" name="Default test" finished-at="2024-07-04T11:35:57 IST" duration-ms="59">
+      <class name="Practice.BeforeAftertestcases">
+        <test-method is-config="true" signature="beforesuit()[pri:0, instance:Practice.BeforeAftertestcases@28701274]" started-at="2024-07-04T11:35:57 IST" name="beforesuit" finished-at="2024-07-04T11:35:57 IST" duration-ms="10" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforesuit -->
+        <test-method is-config="true" signature="beforetest()[pri:0, instance:Practice.BeforeAftertestcases@28701274]" started-at="2024-07-04T11:35:57 IST" name="beforetest" finished-at="2024-07-04T11:35:57 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforetest -->
+        <test-method is-config="true" signature="beforemethod()[pri:0, instance:Practice.BeforeAftertestcases@28701274]" started-at="2024-07-04T11:35:57 IST" name="beforemethod" finished-at="2024-07-04T11:35:57 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method signature="atestcase()[pri:0, instance:Practice.BeforeAftertestcases@28701274]" started-at="2024-07-04T11:35:57 IST" name="atestcase" finished-at="2024-07-04T11:35:57 IST" duration-ms="11" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- atestcase -->
+        <test-method is-config="true" signature="beforemethod()[pri:0, instance:Practice.BeforeAftertestcases@28701274]" started-at="2024-07-04T11:35:57 IST" name="beforemethod" finished-at="2024-07-04T11:35:57 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method signature="testcase()[pri:0, instance:Practice.BeforeAftertestcases@28701274]" started-at="2024-07-04T11:35:57 IST" name="testcase" finished-at="2024-07-04T11:35:57 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase -->
+      </class> <!-- Practice.BeforeAftertestcases -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
